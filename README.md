@@ -8,10 +8,11 @@ Prototype app for detection of toxic comments ...
 Capstone project  
 neue fische Data Science bootcamp
 
-Code based on collaborative project by:  
-[Bambuzera](https://github.com/Bambuzera)  
-[ericmartinez1189](https://github.com/ericmartinez1189)  
-[PurviDParmar](https://github.com/PurviDParmar)  
+Code based on collaborative work by:  
+André Oliveira ([Bambuzera](https://github.com/Bambuzera))  
+Eric Martinez ([ericmartinez1189](https://github.com/ericmartinez1189))  
+Purvi Parmar ([PurviDParmar](https://github.com/PurviDParmar))  
+Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 
 Capstone project slides:
 lexiguard_capstone_presentation.pdf
