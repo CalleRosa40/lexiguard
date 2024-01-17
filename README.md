@@ -4,7 +4,7 @@
 
 Detecting toxicity in online comments.
 
-Capstone project neue fische Data Science bootcamp ()
+Capstone project for neue fische Data Science bootcamp (neuefische.de).
 
 Code based on collaborative work by:  
 André Oliveira ([Bambuzera](https://github.com/Bambuzera))  
@@ -21,14 +21,12 @@ Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 | baseline_model.ipynb | Baseline model (BOW + logistic regression)
 | random_forest.ipynb | Random forest experiments
 | xgboost.ipynb | XGBoost experiments
-| lstm.ipynb | LSTM experiments (TensorFlow)
+| lstm.ipynb | LSTM final model (TensorFlow)
 | lstm_dashboard.py | Very basic prototype dashboard using Streamlit
 | functions.ipynb | Utitlity functions
 | lexiguard_presentation.pdf | Capstone project presentation slides |
 
-
 A video of the group's capstone presentation will be available soon.
-
 
 ## Installing
 
