@@ -12,6 +12,9 @@ Eric Martinez ([ericmartinez1189](https://github.com/ericmartinez1189))
 Purvi Parmar ([PurviDParmar](https://github.com/PurviDParmar))  
 Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 
+# Installation
+...
+
 ## Repo Contents
 
 | File | Description |
@@ -28,7 +31,14 @@ Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 
 A video of the group's capstone presentation will be available soon.
 
-## Installing
+## Notes
+...
+
+## To Do
+...
+
+<!--
+## Installation
 
 Preferably create and activate a virtual Python environment. run the Jupyter notebooks of this project by running the following at the command prompt (Windows):
 
@@ -65,3 +75,4 @@ The project was our first trip into the field of NLP. It was thus foremost about
 ## Outlook / To do
 
 ...
+-->
