@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 data/
+archive/
 
 
 # PyInstaller
@@ -163,6 +164,3 @@ cython_debug/
 
 # Mac stuff
 .DS_Store
-
-# pickle files
-*.pkl
