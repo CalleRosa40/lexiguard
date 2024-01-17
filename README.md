@@ -1,12 +1,10 @@
+<img src="img/lexiguard_logo.png" height="400" alt="LexiGuard logo">
+
 # LexiGuard
 
-Logo!
-TODO/outlook!
+Detecting toxicity in online comments.
 
-Prototype app for detection of toxic comments ...
-
-Capstone project  
-neue fische Data Science bootcamp
+Capstone project neue fische Data Science bootcamp ()
 
 Code based on collaborative work by:  
 André Oliveira ([Bambuzera](https://github.com/Bambuzera))  
@@ -14,10 +12,20 @@ Eric Martinez ([ericmartinez1189](https://github.com/ericmartinez1189))
 Purvi Parmar ([PurviDParmar](https://github.com/PurviDParmar))  
 Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 
-Capstone project slides:
-lexiguard_capstone_presentation.pdf
+## Repo Contents
 
-EDA.ipynb – initial exploratory data analysis to get us started
+| File | Description |
+| --- | --- |
+| eda.ipynb | Initial exploratory data analysis to get us started |
+| data_preprocessing.ipynb | Create data file(s)
+| baseline_model.ipynb | Baseline model (BOW + logistic regression)
+| random_forest.ipynb | Random forest experiments
+| xgboost.ipynb | XGBoost experiments
+| lstm.ipynb | LSTM experiments (TensorFlow)
+| lstm_dashboard.py | Very basic prototype dashboard using Streamlit
+| functions.ipynb | Utitlity functions
+| lexiguard_presentation.pdf | Capstone project presentation slides |
+
 
 A video of the group's capstone presentation will be available soon.
 
@@ -55,3 +63,7 @@ The project was our first trip into the field of NLP. It was thus foremost about
 - fastText
 
 [[Move this section to README in /archive?]]
+
+## Outlook / To do
+
+...
