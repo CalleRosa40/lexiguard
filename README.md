@@ -2,9 +2,9 @@
 
 # LexiGuard
 
-Detecting toxicity in online comments.
+*Detecting toxicity in online comments using an LSTM recurrent neural network*
 
-Capstone project for neue fische Data Science bootcamp (neuefische.de).
+Capstone project for [neue fische Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science)
 
 Code based on collaborative work by:  
 André Oliveira ([Bambuzera](https://github.com/Bambuzera))  
@@ -13,13 +13,18 @@ Purvi Parmar ([PurviDParmar](https://github.com/PurviDParmar))
 Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 
 # Installation
-...
+
+The most convenient way to run the notebooks contained in this repo is probably running them in the cloud, e.g. on [Google Colab](https://colab.research.google.com/). To do so open a notebook and click on the Colab badge at the top.
+
+If you would like to run the notebooks locally on your own machine, you may want to install [Anaconda distribution](https://www.anaconda.com/) and create a virtual environment using the included `environment.yml` (`conda env create -f environment.yml`).
+
+To run the Streamlit prototype dashboard, use this command: `python -m streamlit run lstm_dashboard.py`.
 
 ## Repo Contents
 
 | File | Description |
 | --- | --- |
-| eda.ipynb | Initial exploratory data analysis to get us started |
+| eda.ipynb | Initial exploratory data analysis |
 | data_preprocessing.ipynb | Create data file(s)
 | baseline_model.ipynb | Baseline model (BOW + logistic regression)
 | random_forest.ipynb | Random forest experiments
@@ -32,47 +37,14 @@ Michael Schickenberg ([CalleRosa40](https://github.com/CalleRosa40))
 A video of the group's capstone presentation will be available soon.
 
 ## Notes
-...
 
-## To Do
-...
+The project was the group's first trip into the field of NLP. It was thus foremost about learning and trying out things. Many of these things did not make it into the final project version. Some examples of what we have tinkered around with:
 
-<!--
-## Installation
-
-Preferably create and activate a virtual Python environment. run the Jupyter notebooks of this project by running the following at the command prompt (Windows):
-
-```
-python -m venv .venv --prompt="lexiguard"
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-Downloads required??? (eg !python -m spacy download en_core_web_md)
-
-Code for Streamlit
-
-
-## Notes
-
-Bias!!!
-
-The project was our first trip into the field of NLP. It was thus foremost about learning and trying out things. Many of these things did not make it into the final project version but can still be found in the /archive folder. Some examples of what we have tinkered around with:
-
-[[See funnel graphic!]]
-
+- SpaCy (for vectorization)
+- BERT / Hugging Face Transformers
+- fastText (for vectorization)
+- Gensim
+- Naive Bayes
+- random undersampling
 - POS tagging
-- SpaCy vectors
-- TF-IDF
-- BERT
-- Transformers lib
-- Pickle
-- SMOTE
-- fastText
-
-[[Move this section to README in /archive?]]
-
-## Outlook / To do
-
-...
--->
+- stemming

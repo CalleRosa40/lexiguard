@@ -1,0 +1,21 @@
+name: lexiguard
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - tensorflow
+  - ipykernel
+  - pandas
+  - nltk
+  - matplotlib
+  - spacy-model-en_core_web_sm
+  - spacy
+  - gensim
+  - scikit-learn
+  - conda-forge::imbalanced-learn
+  - nbformat
+  - streamlit
+  - xgboost
+  - seaborn
+  - missingno
+  - wordcloud
