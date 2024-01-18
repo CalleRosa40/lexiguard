@@ -4,7 +4,7 @@
 
 *Detecting toxicity in online comments using an LSTM recurrent neural network*
 
-Capstone project for [neue fische Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science):  
+Capstone group project for [neue fische Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science):  
 [Presentation slides (PDF)](lexiguard_presentation.pdf)  
 (Presentation video coming soon)
 
