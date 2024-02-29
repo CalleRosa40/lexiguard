@@ -6,7 +6,7 @@
 
 Capstone group project for [neue fische Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science):  
 [Presentation slides (PDF)](lexiguard_presentation.pdf)  
-(Presentation video coming soon)
+[Presentation video](https://www.youtube.com/watch?v=uQ_HnZWJMs8)
 
 ## Installation
 
