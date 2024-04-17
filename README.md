@@ -6,9 +6,9 @@
 
 Capstone group project for [neue fische Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science):  
 [Presentation slides (PDF)](lexiguard_presentation.pdf)  
-(Presentation video coming soon)
+[Presentation video](https://www.youtube.com/watch?v=uQ_HnZWJMs8)
 
-# Installation
+## Installation
 
 The most convenient way to run the notebooks contained in this repo is probably running them in the cloud, e.g. on [Google Colab](https://colab.research.google.com/). To do so open a notebook and click on the Colab badge at the top.
 
