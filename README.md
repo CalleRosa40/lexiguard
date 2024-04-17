@@ -31,7 +31,7 @@ To run the Streamlit prototype dashboard, use this command: `python -m streamlit
 
 ## Notes
 
-The project was the group's first trip into the field of NLP. It was thus foremost about learning and trying out things. Many of these things did not make it into the final project version. Some examples of what we have tinkered around with:
+The project was the group's first trip into the field of NLP. It was thus foremost about learning and trying out things. Many of these things did not make it into the final project version. Some examples of what we also tinkered around with:
 
 - SpaCy (for vectorization)
 - BERT / Hugging Face Transformers
